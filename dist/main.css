@@ -1,0 +1,17 @@
+/*!*************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./node_modules/normalize-scss/sass/_normalize.scss ***!
+  \*************************************************************************************************************************************************************************************/
+
+/*!***************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/style.scss ***!
+  \***************************************************************************************************************************************************/
+@font-face {
+  font-family: "Nunito";
+  src: url(assets/fonts/Nunito/Nunito-VariableFont_wght.ttf) format("ttf"), url(assets/fonts/Nunito/Nunito-Italic-VariableFont_wght.ttf) format("ttf");
+}
+body {
+  background-color: aqua;
+  font-family: "Nunito", sans-serif;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFpbi5jc3MiLCJtYXBwaW5ncyI6Ijs7Ozs7OztBQUFBO0VBQ0U7RUFDQTtBQ0NGO0FBREE7RUFDRTtFQUNBO0FBR0YsQyIsInNvdXJjZXMiOlsid2VicGFjazovL3dlYnBhY2svLi9zcmMvc3R5bGUvZm9udHMuc2NzcyIsIndlYnBhY2s6Ly93ZWJwYWNrLy4vc3JjL3N0eWxlLnNjc3MiXSwic291cmNlc0NvbnRlbnQiOlsiQGZvbnQtZmFjZSB7XG4gIGZvbnQtZmFtaWx5OiAnTnVuaXRvJztcbiAgc3JjOiB1cmwoXCIuL2Fzc2V0cy9mb250cy9OdW5pdG8vTnVuaXRvLVZhcmlhYmxlRm9udF93Z2h0LnR0ZlwiKSBmb3JtYXQoJ3R0ZicpLCB1cmwoXCIuL2Fzc2V0cy9mb250cy9OdW5pdG8vTnVuaXRvLUl0YWxpYy1WYXJpYWJsZUZvbnRfd2dodC50dGZcIikgZm9ybWF0KCd0dGYnKTtcbn0iLCJAaW1wb3J0IFwiLi9zdHlsZS9mb250cy5zY3NzXCI7XG5cbmJvZHkge1xuICBiYWNrZ3JvdW5kLWNvbG9yOiBhcXVhO1xuICBmb250LWZhbWlseTogJ051bml0bycsIHNhbnMtc2VyaWY7XG4gIC8vIGJhY2tncm91bmQ6IHVybChcIi4vYXNzZXRzL2hhbmQucG5nXCIpO1xufVxuXG4iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=*/
